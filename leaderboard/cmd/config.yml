@@ -1,0 +1,21 @@
+server:
+  port: 3593
+  private_key: this_should_be_randomized
+
+seq:
+  endpoint: https://logs.lystic.dev
+  apikey: key_here
+  appname: dayzbr-gitlab-webhooks
+  loglevel: 5
+  seqlevel: 4
+
+discord:
+  token: bot_token_here
+  debug_channel: 509827683866378250
+  status_channel: 498194405509955594
+
+mongodb:
+  connect_uri: mongodb://some_connect_rui:27017
+
+steam:
+  apikey: this_should_be_your_steam_api_key
