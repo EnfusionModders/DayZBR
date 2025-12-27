@@ -1,0 +1,11 @@
+{
+  "category": "attachments",
+  "weight": 0.52,
+  "styles": [
+    "M9A1_Bayonet"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

@@ -1,0 +1,11 @@
+{
+    "VehicleSync": 1,
+    "VehicleRequireKeyToStart": 0,
+    "VehicleRequireAllDoors": 0,
+    "VehicleLockedAllowInventoryAccess": 1,
+    "VehicleLockedAllowInventoryAccessWithoutDoors": 1,
+    "EnableWindAerodynamics": 0,
+    "EnableTailRotorDamage": 0,
+    "PlayerAttachment": 1,
+    "Towing": 1
+}

@@ -1,0 +1,24 @@
+{
+  "category": "gear",
+  "weight": 0.578,
+  "styles": [
+    "MotoHelmet_Black",
+    "MotoHelmet_Blue",
+    "MotoHelmet_Green",
+    "MotoHelmet_Grey",
+    "MotoHelmet_Lime",
+    "MotoHelmet_Red",
+    "MotoHelmet_White",
+    "DarkMotoHelmet_Black",
+    "DarkMotoHelmet_Blue",
+    "DarkMotoHelmet_Green",
+    "DarkMotoHelmet_Grey",
+    "DarkMotoHelmet_Lime",
+    "DarkMotoHelmet_Red",
+    "DarkMotoHelmet_White"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

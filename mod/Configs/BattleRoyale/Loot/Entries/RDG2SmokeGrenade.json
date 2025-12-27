@@ -1,0 +1,12 @@
+{
+  "category": "grenades",
+  "weight": 1.0,
+  "styles": [
+    "RDG2SmokeGrenade_Black",
+    "RDG2SmokeGrenade_White"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

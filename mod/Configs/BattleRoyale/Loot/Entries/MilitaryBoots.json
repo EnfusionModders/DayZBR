@@ -1,0 +1,15 @@
+{
+  "category": "gear",
+  "weight": 1.329,
+  "styles": [
+    "MilitaryBoots_Beige",
+    "MilitaryBoots_Black",
+    "MilitaryBoots_Bluerock",
+    "MilitaryBoots_Brown",
+    "MilitaryBoots_Redpunk"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

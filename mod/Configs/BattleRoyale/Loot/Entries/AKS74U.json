@@ -1,0 +1,13 @@
+{
+  "category": "weapons",
+  "weight": 1.272,
+  "styles": [
+    "AKS74U",
+    "AKS74U_Black",
+    "AKS74U_Green"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 1,
+  "needs_ammo": 0,
+  "needs_attachments": 1
+}

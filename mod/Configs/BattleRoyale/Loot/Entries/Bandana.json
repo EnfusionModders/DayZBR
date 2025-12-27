@@ -1,0 +1,15 @@
+{
+  "category": "gear",
+  "weight": 0.52,
+  "styles": [
+    "Bandana_Redpattern",
+    "Bandana_Polkapattern",
+    "Bandana_Greenpattern",
+    "Bandana_Camopattern",
+    "Bandana_Blackpattern"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

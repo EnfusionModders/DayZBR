@@ -1,0 +1,14 @@
+{
+  "category": "gear",
+  "weight": 1.156,
+  "styles": [
+    "M65Jacket_Black",
+    "M65Jacket_Khaki",
+    "M65Jacket_Olive",
+    "M65Jacket_Tan"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

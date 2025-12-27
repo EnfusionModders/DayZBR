@@ -1,0 +1,20 @@
+{
+  "category": "gear",
+  "weight": 0.751,
+  "styles": [
+    "BoonieHat_Tan",
+    "BoonieHat_Red",
+    "BoonieHat_Orange",
+    "BoonieHat_Olive",
+    "BoonieHat_Flecktran",
+    "BoonieHat_Dubok",
+    "BoonieHat_DPM",
+    "BoonieHat_Blue",
+    "BoonieHat_Black",
+    "BoonieHat_NavyBlue"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

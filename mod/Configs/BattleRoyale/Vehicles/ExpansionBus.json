@@ -1,0 +1,15 @@
+{
+    "Weight": 0.1,
+    "VehicleName": "ExpansionBus",
+    "Parts": [
+        "ExpansionBusWheel",
+        "ExpansionBusWheel",
+        "ExpansionBusWheelDouble",
+        "ExpansionBusWheelDouble",
+        "HeadlightH7",
+        "HeadlightH7",
+        "TruckBattery",
+        "CarRadiator",
+        "GlowPlug"
+    ]
+}

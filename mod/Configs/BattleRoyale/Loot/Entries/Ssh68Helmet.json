@@ -1,0 +1,11 @@
+{
+  "category": "gear",
+  "weight": 1.387,
+  "styles": [
+    "Ssh68Helmet"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

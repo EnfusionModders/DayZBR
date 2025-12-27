@@ -1,0 +1,13 @@
+{
+  "category": "gear",
+  "weight": 1.618,
+  "styles": [
+    "AssaultBag_Black",
+    "AssaultBag_Green",
+    "AssaultBag_Ttsko"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

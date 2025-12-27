@@ -1,0 +1,15 @@
+{
+  "category": "gear",
+  "weight": 0.751,
+  "styles": [
+    "SkateHelmet_Black",
+    "SkateHelmet_Blue",
+    "SkateHelmet_Gray",
+    "SkateHelmet_Green",
+    "SkateHelmet_Red"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

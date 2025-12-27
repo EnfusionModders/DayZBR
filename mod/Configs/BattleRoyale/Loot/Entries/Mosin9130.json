@@ -1,0 +1,18 @@
+{
+  "category": "weapons",
+  "weight": 0.983,
+  "styles": [
+    "Mosin9130",
+    "Mosin9130_Black",
+    "Mosin9130_Green",
+    "Mosin9130_Camo",
+    "SawedoffMosin9130",
+    "SawedoffMosin9130_Black",
+    "SawedoffMosin9130_Camo",
+    "SawedoffMosin9130_Green"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 1,
+  "needs_attachments": 1
+}

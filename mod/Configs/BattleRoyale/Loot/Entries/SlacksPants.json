@@ -1,0 +1,18 @@
+{
+  "category": "gear",
+  "weight": 1.214,
+  "styles": [
+    "SlacksPants_Beige",
+    "SlacksPants_Black",
+    "SlacksPants_Blue",
+    "SlacksPants_Brown",
+    "SlacksPants_DarkGrey",
+    "SlacksPants_Khaki",
+    "SlacksPants_LightGrey",
+    "SlacksPants_White"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

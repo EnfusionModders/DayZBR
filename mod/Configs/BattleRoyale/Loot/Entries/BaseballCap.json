@@ -1,0 +1,19 @@
+{
+  "category": "gear",
+  "weight": 0.116,
+  "styles": [
+    "BaseballCap_Red",
+    "BaseballCap_Pink",
+    "BaseballCap_Camo",
+    "BaseballCap_Olive",
+    "BaseballCap_CMMG_Pink",
+    "BaseballCap_CMMG_Black",
+    "BaseballCap_Blue",
+    "BaseballCap_Beige",
+    "BaseballCap_Black"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

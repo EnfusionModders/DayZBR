@@ -1,0 +1,13 @@
+{
+  "category": "attachments",
+  "weight": 0.751,
+  "styles": [
+    "AK_WoodBttstck",
+    "AK_WoodBttstck_Black",
+    "AK_WoodBttstck_Camo"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

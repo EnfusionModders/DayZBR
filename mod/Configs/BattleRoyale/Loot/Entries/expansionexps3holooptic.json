@@ -1,0 +1,13 @@
+{
+  "category": "attachments",
+  "weight": 0.5,
+  "styles": [
+    "ExpansionEXPS3HoloOptic"
+  ],
+  "spawn_with": [
+    "Battery9V"
+  ],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

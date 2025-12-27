@@ -1,0 +1,13 @@
+{
+  "category": "weapons",
+  "weight": 1.04,
+  "styles": [
+    "AK101",
+    "AK101_Black",
+    "AK101_Green"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 1,
+  "needs_ammo": 0,
+  "needs_attachments": 1
+}

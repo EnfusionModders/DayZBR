@@ -1,0 +1,19 @@
+{
+    "Weight": 1,
+    "VehicleName": "CivilianSedan",
+    "Parts": [
+        "CivSedanHood",
+        "CivSedanTrunk",
+        "CivSedanDoors_Driver",
+        "CivSedanDoors_BackRight",
+        "CivSedanDoors_BackLeft",
+        "CivSedanDoors_CoDriver",
+        "CivSedanWheel",
+        "CivSedanWheel",
+        "CivSedanWheel",
+        "CivSedanWheel",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug"
+    ]
+}

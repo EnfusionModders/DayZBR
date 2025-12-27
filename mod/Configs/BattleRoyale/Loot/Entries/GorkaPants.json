@@ -1,0 +1,14 @@
+{
+  "category": "gear",
+  "weight": 1.908,
+  "styles": [
+    "GorkaPants_Autumn",
+    "GorkaPants_Flat",
+    "GorkaPants_PautRev",
+    "GorkaPants_Summer"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

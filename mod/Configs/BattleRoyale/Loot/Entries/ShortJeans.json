@@ -1,0 +1,16 @@
+{
+  "category": "gear",
+  "weight": 0.578,
+  "styles": [
+    "ShortJeans_Black",
+    "ShortJeans_Blue",
+    "ShortJeans_Brown",
+    "ShortJeans_Darkblue",
+    "ShortJeans_Green",
+    "ShortJeans_Red"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

@@ -1,0 +1,13 @@
+{
+  "category": "misc",
+  "weight": 1.965,
+  "styles": [
+    "Binoculars"
+  ],
+  "spawn_with": [
+    "Battery9V"
+  ],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

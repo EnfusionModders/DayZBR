@@ -1,0 +1,18 @@
+{
+  "category": "gear",
+  "weight": 0.231,
+  "styles": [
+    "FlatCap_Black",
+    "FlatCap_BlackCheck",
+    "FlatCap_Blue",
+    "FlatCap_Brown",
+    "FlatCap_BrownCheck",
+    "FlatCap_GreyCheck",
+    "FlatCap_Grey",
+    "FlatCap_Red"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

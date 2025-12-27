@@ -1,0 +1,11 @@
+{
+  "category": "attachments",
+  "weight": 0.694,
+  "styles": [
+    "KazuarOptic"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

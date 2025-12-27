@@ -1,0 +1,13 @@
+{
+  "category": "attachments",
+  "weight": 0.5,
+  "styles": [
+    "ExpansionHAMROptic"
+  ],
+  "spawn_with": [
+    "Battery9V"
+  ],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

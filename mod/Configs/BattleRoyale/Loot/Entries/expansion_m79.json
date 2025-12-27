@@ -1,0 +1,11 @@
+{
+  "category": "weapons",
+  "weight": 0.1,
+  "styles": [
+    "Expansion_M79"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 1,
+  "needs_attachments": 0
+}

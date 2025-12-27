@@ -1,0 +1,13 @@
+{
+  "category": "weapons",
+  "weight": 0.578,
+  "styles": [
+    "M4A1",
+    "M4A1_Black",
+    "M4A1_Green"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 1,
+  "needs_ammo": 0,
+  "needs_attachments": 1
+}

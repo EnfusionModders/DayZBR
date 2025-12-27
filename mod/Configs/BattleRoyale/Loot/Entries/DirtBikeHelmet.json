@@ -1,0 +1,20 @@
+{
+  "category": "gear",
+  "weight": 0.405,
+  "styles": [
+    "DirtBikeHelmet_Black",
+    "DirtBikeHelmet_Blue",
+    "DirtBikeHelmet_Chernarus",
+    "DirtBikeHelmet_Green",
+    "DirtBikeHelmet_Mouthguard",
+    "DirtBikeHelmet_Khaki",
+    "DirtBikeHelmet_Red",
+    "DirtBikeHelmet_Police"
+  ],
+  "spawn_with": [
+    "DirtBikeHelmet_Visor"
+  ],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

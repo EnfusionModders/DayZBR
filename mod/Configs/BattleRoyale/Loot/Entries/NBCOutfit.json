@@ -1,0 +1,17 @@
+{
+  "category": "gear",
+  "weight": 0.116,
+  "styles": [
+    "NBCBootsGray"
+  ],
+  "spawn_with": [
+    "NBCGlovesGray",
+    "NBCHoodGray",
+    "NBCJacketGray",
+    "NBCPantsGray",
+    "GP5GasMask"
+  ],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

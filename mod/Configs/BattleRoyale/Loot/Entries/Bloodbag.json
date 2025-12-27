@@ -1,0 +1,15 @@
+{
+  "category": "medical",
+  "weight": 1.0,
+  "styles": [
+    "BloodBagEmpty",
+    "BloodBagFull"
+  ],
+  "spawn_with": [
+    "BloodTestKit",
+    "StartKitIV"
+  ],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

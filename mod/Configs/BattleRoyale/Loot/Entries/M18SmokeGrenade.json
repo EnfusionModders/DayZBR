@@ -1,0 +1,15 @@
+{
+  "category": "grenades",
+  "weight": 1.214,
+  "styles": [
+    "M18SmokeGrenade_Green",
+    "M18SmokeGrenade_Purple",
+    "M18SmokeGrenade_Red",
+    "M18SmokeGrenade_White",
+    "M18SmokeGrenade_Yellow"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

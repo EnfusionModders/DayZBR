@@ -1,0 +1,13 @@
+{
+  "category": "attachments",
+  "weight": 0.694,
+  "styles": [
+    "AK_FoldingBttstck",
+    "AK_FoldingBttstck_Green",
+    "AK_FoldingBttstck_Black"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

@@ -1,0 +1,19 @@
+{
+    "Weight": 1,
+    "VehicleName": "ExpansionUAZCargo",
+    "Parts": [
+        "ExpansionUAZWheel",
+        "ExpansionUAZWheel",
+        "ExpansionUAZWheel",
+        "ExpansionUAZWheel",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ExpansionUAZDoorDriver",
+        "ExpansionUAZDoorCoDriver",
+        "ExpansionUAZDoorCargo1",
+        "ExpansionUAZDoorCargo2",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug"
+    ]
+}

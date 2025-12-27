@@ -1,0 +1,12 @@
+{
+  "category": "gear",
+  "weight": 1.214,
+  "styles": [
+    "USMCPants_Desert",
+    "USMCPants_Woodland"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

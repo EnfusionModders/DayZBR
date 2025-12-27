@@ -1,0 +1,15 @@
+{
+  "category": "gear",
+  "weight": 0.694,
+  "styles": [
+    "RadarCap_Black",
+    "RadarCap_Blue",
+    "RadarCap_Brown",
+    "RadarCap_Green",
+    "RadarCap_Red"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

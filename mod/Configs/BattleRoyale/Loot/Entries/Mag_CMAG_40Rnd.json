@@ -1,0 +1,11 @@
+{
+  "category": "magazines",
+  "weight": 0.809,
+  "styles": [
+    "Mag_CMAG_40Rnd"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

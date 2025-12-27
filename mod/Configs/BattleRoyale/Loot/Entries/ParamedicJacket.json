@@ -1,0 +1,16 @@
+{
+  "category": "gear",
+  "weight": 0.578,
+  "styles": [
+    "ParamedicJacket_Blue",
+    "ParamedicJacket_Crimson",
+    "ParamedicJacket_Green",
+    "ParamedicPants_Blue",
+    "ParamedicPants_Green",
+    "ParamedicPants_Crimson"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

@@ -1,0 +1,11 @@
+{
+  "category": "misc",
+  "weight": 0.405,
+  "styles": [
+    "PetrolLighter"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

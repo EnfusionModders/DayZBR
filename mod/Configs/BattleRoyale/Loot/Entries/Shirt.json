@@ -1,0 +1,20 @@
+{
+  "category": "gear",
+  "weight": 0.694,
+  "styles": [
+    "Shirt_BlueCheck",
+    "Shirt_BlueCheckBright",
+    "Shirt_GreenCheck",
+    "Shirt_PlaneBlack",
+    "Shirt_RedCheck",
+    "Shirt_WhiteCheck",
+    "Skirt_Red",
+    "Skirt_Yellow",
+    "Skirt_White",
+    "Skirt_Blue"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

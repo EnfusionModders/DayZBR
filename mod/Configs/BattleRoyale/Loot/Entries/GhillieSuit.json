@@ -1,0 +1,13 @@
+{
+  "category": "gear",
+  "weight": 1.503,
+  "styles": [
+    "GhillieSuit_Mossy",
+    "GhillieSuit_Tan",
+    "GhillieSuit_Woodland"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

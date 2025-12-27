@@ -1,0 +1,12 @@
+{
+  "category": "weapons",
+  "weight": 0.347,
+  "styles": [
+    "BrassKnuckles_Dull",
+    "BrassKnuckles_Shiny"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

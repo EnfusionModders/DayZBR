@@ -1,0 +1,18 @@
+{
+  "category": "gear",
+  "weight": 1.214,
+  "styles": [
+    "ManSuit_Beige",
+    "ManSuit_Black",
+    "ManSuit_Blue",
+    "ManSuit_DarkGrey",
+    "ManSuit_Khaki",
+    "ManSuit_LightGrey",
+    "ManSuit_White",
+    "ManSuit_Brown"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

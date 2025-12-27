@@ -1,0 +1,11 @@
+{
+  "category": "ammo",
+  "weight": 1.561,
+  "styles": [
+    "AmmoBox_545x39_20Rnd"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

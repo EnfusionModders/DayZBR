@@ -1,0 +1,15 @@
+{
+  "category": "grenades",
+  "weight": 0.231,
+  "styles": [
+    "Chemlight_Blue",
+    "Chemlight_Red",
+    "Chemlight_Green",
+    "Chemlight_White",
+    "Chemlight_Yellow"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

@@ -1,0 +1,13 @@
+{
+  "category": "attachments",
+  "weight": 0.751,
+  "styles": [
+    "M4_RISHndgrd",
+    "M4_RISHndgrd_Black",
+    "M4_RISHndgrd_Green"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

@@ -1,0 +1,13 @@
+{
+  "category": "attachments",
+  "weight": 1.156,
+  "styles": [
+    "AK_WoodHndgrd",
+    "AK_WoodHndgrd_Black",
+    "AK_WoodHndgrd_Camo"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

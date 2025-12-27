@@ -1,0 +1,12 @@
+{
+  "category": "weapons",
+  "weight": 0.05,
+  "styles": [
+    "Expansion_Taser_Yellow",
+    "Expansion_Taser_Black"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 1,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

@@ -1,0 +1,21 @@
+{
+    "num_zones": 7,
+    "round_duration_minutes": 5,
+    "time_until_teleport_unlock": 10,
+    "zone_notification_minutes": [
+        1,
+        2
+    ],
+    "zone_notification_seconds": [
+        30,
+        10
+    ],
+    "debug_heal_tick_seconds": 5,
+    "zone_damage_tick_seconds": 5,
+    "enable_zone_damage": 1,
+    "player_starting_items": [
+        "TrackSuitJacket_Red",
+        "TrackSuitPants_Red",
+        "JoggingShoes_Red"
+    ]
+}

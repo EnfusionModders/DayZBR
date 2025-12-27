@@ -1,0 +1,13 @@
+{
+  "category": "attachments",
+  "weight": 1.098,
+  "styles": [
+    "AK_RailHndgrd",
+    "AK_RailHndgrd_Black",
+    "AK_RailHndgrd_Green"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

@@ -1,0 +1,18 @@
+{
+  "category": "gear",
+  "weight": 0.405,
+  "styles": [
+    "Armband_White",
+    "Armband_Pink",
+    "Armband_Green",
+    "Armband_Black",
+    "Armband_Blue",
+    "Armband_Orange",
+    "Armband_Red",
+    "Armband_Yellow"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

@@ -1,0 +1,17 @@
+{
+  "category": "gear",
+  "weight": 1.734,
+  "styles": [
+    "BalaclavaMask_Blackskull",
+    "BalaclavaMask_Blue",
+    "BalaclavaMask_Green",
+    "BalaclavaMask_Pink",
+    "BalaclavaMask_Beige",
+    "BalaclavaMask_Black",
+    "BalaclavaMask_White"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

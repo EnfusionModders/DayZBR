@@ -1,0 +1,14 @@
+{
+  "category": "gear",
+  "weight": 0.578,
+  "styles": [
+    "NVGHeadstrap"
+  ],
+  "spawn_with": [
+    "NVGoggles",
+    "Battery9V"
+  ],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

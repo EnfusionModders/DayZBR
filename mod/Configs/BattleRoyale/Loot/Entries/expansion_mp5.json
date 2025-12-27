@@ -1,0 +1,11 @@
+{
+  "category": "weapons",
+  "weight": 0.75,
+  "styles": [
+    "Expansion_MP5"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 1,
+  "needs_ammo": 0,
+  "needs_attachments": 1
+}

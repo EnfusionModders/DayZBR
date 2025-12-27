@@ -1,0 +1,7 @@
+{
+	"chance_to_spawn_building": 0.95,
+    "chance_to_spawn_pile": 0.5,
+	"num_mags_to_spawn_with": 3,
+	"num_ammoboxs_to_spawn_with": 2,
+	"chance_to_spawn_attachment": 0.5
+}

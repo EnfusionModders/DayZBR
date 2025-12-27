@@ -1,0 +1,11 @@
+{
+  "category": "magazines",
+  "weight": 1.329,
+  "styles": [
+    "Mag_AKM_30Rnd"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

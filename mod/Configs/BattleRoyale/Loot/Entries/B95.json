@@ -1,0 +1,11 @@
+{
+  "category": "weapons",
+  "weight": 0.994,
+  "styles": [
+    "B95"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 1,
+  "needs_attachments": 1
+}

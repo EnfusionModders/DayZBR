@@ -1,0 +1,10 @@
+{
+    "spawn_point": [
+        14829.2,
+        72.3148,
+        14572.3
+    ],
+    "radius": 50,
+    "minimum_players": 2,
+    "time_to_start_match_seconds": 30
+}

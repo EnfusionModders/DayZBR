@@ -1,0 +1,15 @@
+{
+  "category": "gear",
+  "weight": 1.0,
+  "styles": [
+    "JungleBoots_Beige",
+    "JungleBoots_Brown",
+    "JungleBoots_Olive",
+    "JungleBoots_Black",
+    "JungleBoots_Green"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

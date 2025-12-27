@@ -1,0 +1,15 @@
+{
+  "category": "gear",
+  "weight": 0.116,
+  "styles": [
+    "JoggingShoes_Black",
+    "JoggingShoes_Blue",
+    "JoggingShoes_Red",
+    "JoggingShoes_Violet",
+    "JoggingShoes_White"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

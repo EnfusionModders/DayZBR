@@ -1,0 +1,14 @@
+{
+  "category": "gear",
+  "weight": 0.52,
+  "styles": [
+    "HikingJacket_Black",
+    "HikingJacket_Green",
+    "HikingJacket_Red",
+    "HikingJacket_Blue"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

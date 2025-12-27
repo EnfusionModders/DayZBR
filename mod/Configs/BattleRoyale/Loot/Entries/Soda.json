@@ -1,0 +1,14 @@
+{
+  "category": "drink",
+  "weight": 0.289,
+  "styles": [
+    "SodaCan_Cola",
+    "SodaCan_Spite",
+    "SodaCan_Pipsi",
+    "SodaCan_Kvass"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

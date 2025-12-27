@@ -1,0 +1,13 @@
+{
+  "category": "gear",
+  "weight": 2.023,
+  "styles": [
+    "GorkaHelmet"
+  ],
+  "spawn_with": [
+    "GorkaHelmetVisor"
+  ],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

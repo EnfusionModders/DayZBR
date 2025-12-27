@@ -1,0 +1,15 @@
+{
+  "category": "gear",
+  "weight": 1.734,
+  "styles": [
+    "HunterPants_Autumn",
+    "HunterPants_Brown",
+    "HunterPants_Spring",
+    "HunterPants_Summer",
+    "HunterPants_Winter"
+  ],
+  "spawn_with": [],
+  "needs_magazines": 0,
+  "needs_ammo": 0,
+  "needs_attachments": 0
+}

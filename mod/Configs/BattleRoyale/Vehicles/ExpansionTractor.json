@@ -1,0 +1,17 @@
+{
+    "Weight": 0.2,
+    "VehicleName": "ExpansionTractor",
+    "Parts": [
+        "ExpansionTractorFrontWheel",
+        "ExpansionTractorFrontWheel",
+        "ExpansionTractorBackWheel",
+        "ExpansionTractorBackWheel",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ExpansionTractorDoorsDriver",
+        "ExpansionTractorDoorsCodriver",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug"
+    ]
+}

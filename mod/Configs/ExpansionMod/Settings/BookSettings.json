@@ -1,0 +1,116 @@
+{
+    "EnableBook": 1,
+    "EnableStatusTab": 1,
+    "EnablePartyTab": 0,
+    "EnableServerInfoTab": 1,
+    "EnableServerRulesTab": 0,
+    "EnableTerritoryTab": 0,
+    "ShowServerSettings": 0,
+    "ServerInfo": {
+        "ServerButtons": [
+            {
+                "IconPath": "set:expansion_iconset image:icon_group",
+                "URL": "https://dayzbr.dev",
+                "Tooltip": "Leaderboard",
+                "Color": -1
+            },
+            {
+                "IconPath": "set:expansion_iconset image:icon_discord",
+                "URL": "https://discord.gg/5T2k4Vv",
+                "Tooltip": "Discord",
+                "Color": -1
+            },
+            {
+                "IconPath": "set:expansion_iconset image:icon_home",
+                "URL": "https://dayzbr.dev",
+                "Tooltip": "Website",
+                "Color": -1
+            },
+            {
+                "IconPath": "set:expansion_iconset image:icon_patreon",
+                "URL": "https://www.patreon.com/KeganHollern",
+                "Tooltip": "Patreon",
+                "Color": -1
+            }
+        ],
+			"ServerSections": [
+            {
+                "HasHeading": 1,
+                "HeadText": "DayZ Battle Royale",
+                "BodyText": "<p>Welcome To Battle Royale! This mod aims to create an enjoyable experience when compared to Survivor GameZ. We're always open to feedback, so please let us know how you feel!</p>"
+            },
+            {
+                "HasHeading": 1,
+                "HeadText": "The BETA!",
+                "BodyText": "<p>Welcome to the Open Beta! If you're new, I hope you take the time to enjoy the experience. Matchs may take some time to fill up, so grab a drink or a snack while you wait. Don't worry if you run into any bugs, but please report them </p>"
+            },
+            {
+                "HasHeading": 1,
+                "HeadText": "Important Tips",
+                "BodyText": "<p>You can view the current zone on the map. Keep track of the zone timers, you'll need to keep moving if you want to make it to the next play area.</p>"
+            }
+        ],
+        "ServerName": "DayZ Battle Royale"
+    },
+	"ServerLogoPath": "set:battleroyale_gui image:DayZBRLogo",
+    "RuleCategorys": [
+        {
+            "RuleButtons": [
+                {
+                    "RuleSection": {
+                        "Rules": [
+                            {
+                                "DetailContent": "Glichting into bases is a ban reason and will not be tolerated."
+                            },
+                            {
+                                "DetailContent": "Glichting under the map or clipping thrue objects will not be tolerated."
+                            }
+                        ],
+                        "DetailLabel": "Glitching"
+                    },
+                    "DetailLabel": "Glitching",
+                    "DetailContent": "Rule section 1 description",
+                    "Icon": "DayZExpansion\\GUI\\icons\\hud\\tent_64x64.edds"
+                },
+                {
+                    "RuleSection": {
+                        "Rules": [
+                            {
+                                "DetailContent": "Any kind of cheats or third-party programms are not allowed and will be treated accordingly."
+                            }
+                        ],
+                        "DetailLabel": "Cheating"
+                    },
+                    "DetailLabel": "Cheating",
+                    "DetailContent": "Rule section 2 description",
+                    "Icon": "DayZExpansion\\GUI\\icons\\hud\\skull_1_64x64.edds"
+                }
+            ],
+            "DisplayName": "Hacking and Cheating"
+        },
+        {
+            "RuleButtons": [
+                {
+                    "RuleSection": {
+                        "Rules": [
+                            {
+                                "DetailContent": "Insults of all kinds will not be tolerated unless they are part of an roleplay."
+                            },
+                            {
+                                "DetailContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et mi non purus varius maximus. Pellentesque interdum, justo id luctus euismod, urna sapien convallis justo, non feugiat sapien orci a leo. Mauris lobortis sapien in erat interdum pretium. Integer ultrices odio lobortis lectus gravida, ac congue velit consequat. Nullam tempor lectus mollis, vulputate nibh sed, interdum ante. Donec finibus turpis purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam non diam id odio varius dignissim. Nulla nec est ut libero imperdiet suscipit. Maecenas et arcu non purus sollicitudin venenatis."
+                            }
+                        ],
+                        "DetailLabel": "Insults"
+                    },
+                    "DetailLabel": "Insults",
+                    "DetailContent": "Rule section 1 description",
+                    "Icon": "DayZExpansion\\GUI\\icons\\hud\\info_64x64.edds"
+                }
+            ],
+            "DisplayName": "Etiquette"
+        }
+    ],
+    "RuleParagraphColor": -13330213,
+    "RuleButtonColor": -13330213,
+    "ShowTooltipOnRuleButton": 0
+}
