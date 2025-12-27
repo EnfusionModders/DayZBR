@@ -1,0 +1,17 @@
+server:
+  port: 3590
+
+seq:
+  endpoint: https://logs.lystic.dev
+  apikey: key_here
+  appname: dayzbr-gitlab-webhooks
+  loglevel: 5
+  seqlevel: 4
+
+discord:
+  token: bot_token_here
+  debug_channel: 509827683866378250
+  status_channel: 498194405509955594
+
+gitlab:
+  secret_token: secret_token_here
